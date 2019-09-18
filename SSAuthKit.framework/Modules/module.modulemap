@@ -1,5 +1,5 @@
-framework module SaSaiAuthKit {
-  umbrella header "SaSaiAuthKit.h"
+framework module SSAuthKit {
+  umbrella header "SSAuthKit.h"
 
   export *
   module * { export * }
